@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/akira-cn/fontmin.git#master",
+  "_from": "git+https://github.com/verymuch/fontmin.git#master",
   "_id": "fontmin@0.8.1",
   "_inBundle": false,
   "_integrity": "sha1-c3xpOxd3awiXYmqTOodZDkDGFU0=",
@@ -11,19 +11,19 @@
   },
   "_requested": {
     "type": "git",
-    "raw": "fontmin@git+https://github.com/akira-cn/fontmin.git#master",
+    "raw": "fontmin@git+https://github.com/verymuch/fontmin.git#master",
     "name": "fontmin",
     "escapedName": "fontmin",
-    "rawSpec": "git+https://github.com/akira-cn/fontmin.git#master",
-    "saveSpec": "git+https://github.com/akira-cn/fontmin.git#master",
-    "fetchSpec": "https://github.com/akira-cn/fontmin.git",
+    "rawSpec": "git+https://github.com/verymuch/fontmin.git#master",
+    "saveSpec": "git+https://github.com/verymuch/fontmin.git#master",
+    "fetchSpec": "https://github.com/verymuch/fontmin.git",
     "gitCommittish": "master"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "git+https://github.com/akira-cn/fontmin.git#9733e2db77a339db8c51059919a9a321ce845bdd",
-  "_spec": "fontmin@git+https://github.com/akira-cn/fontmin.git#master",
+  "_resolved": "git+https://github.com/verymuch/fontmin.git#9733e2db77a339db8c51059919a9a321ce845bdd",
+  "_spec": "fontmin@git+https://github.com/verymuch/fontmin.git#master",
   "_where": "/Users/verymuch/DevSpace/qiwoo_baomitu",
   "author": {
     "name": "junmer"
@@ -39,7 +39,7 @@
     "b3b": "0.0.1",
     "buffer-to-vinyl": "^1.0.0",
     "concat-stream": "^1.4.6",
-    "fonteditor-ttf": "git+https://github.com/akira-cn/fonteditor-ttf.git#master",
+    "fonteditor-ttf": "git+https://github.com/verymuch/fonteditor-ttf.git#master",
     "get-stdin": "^4.0.1",
     "is-svg": "^1.1.1",
     "is-ttf": "^0.2.1",
